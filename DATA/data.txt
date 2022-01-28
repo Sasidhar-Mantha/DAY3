@@ -1,0 +1,3 @@
+{"method":"GET","url":"/products","date":"Fri Jan 28 2022","time":"12:05:58 GMT+0530 (India Standard Time)"}
+{"method":"GET","url":"/","date":"Fri Jan 28 2022","time":"12:06:19 GMT+0530 (India Standard Time)"}
+{"method":"POST","url":"/posturl","date":"Fri Jan 28 2022","time":"12:06:31 GMT+0530 (India Standard Time)"}
